@@ -1,1 +1,0 @@
-// Kotlin MainActivity content
